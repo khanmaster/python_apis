@@ -48,3 +48,16 @@ J, X                               8
 Q, Z                               10
 
 ```
+```python
+
+example:
+
+Create a class named Student_Data
+with firstname and lastname and __age attributes,
+
+def elevators_pitch method(self):
+returns "type your actual elevators pitch here"
+
+def __address(self, house no, street, post_code)
+return "full address"
+```

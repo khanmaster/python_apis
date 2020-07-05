@@ -16,10 +16,6 @@
 
 ``` 
 NOTE: ONLY ONE OOP PILLAR'S FUNCTIONALITY NEEDS TO BE ACHIEVED IN EACH REPO AS PER THEIR NAMES
-
-```
-
-
 ```
 
 # Create a power point presentation to present above exercise and time box it for 5 minutes total.
