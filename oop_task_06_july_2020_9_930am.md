@@ -37,8 +37,8 @@ return "full address"
 
 # Your presentation must include:
 ## Your elevator's pitch of up to 1 minute (minimum 45-sec)
-## code walk through in pycharm and git hub Repositories
-## code Demo by running your code successfully in pycharm
+## Code walk through in pycharm and git hub Repositories
+## Code Demo by running your code successfully in pycharm
 
 # Assessment criteria:
 ## Best practices that we have learned from business week till date
