@@ -3,10 +3,10 @@
 
 ## Create 4 new Separate projects in pycharm to push to 4 separate Repositories to github, called: 
 
-### student_data_inheritance 
-### student_data_encapsulation
-### student_data_polymorphism
-### student_data_abstraction
+### 1 - student_data_inheritance 
+### 2 - student_data_encapsulation
+### 3 - student_data_polymorphism
+### 4 - student_data_abstraction
 
 # Create two python files and one READEME.md in each Repository
 - Student_data.py file as a parent class and DevOps_student.py as a child class
@@ -18,18 +18,7 @@
 NOTE: ONLY ONE OOP PILLAR'S FUNCTIONALITY NEEDS TO BE ACHIEVED IN EACH REPO AS PER THEIR NAMES
 
 ```
-```bash
 
-example:
-
-Create a class named Student_Data
-with firstname and lastname and __age attributes,
-
-def elevators_pitch method(self):
-returns "type your actual elevators pitch here"
-
-def __address(self, house no, street, post_code)
-return "full address"
 
 ```
 
