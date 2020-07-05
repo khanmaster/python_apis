@@ -1,10 +1,9 @@
-# What is an API
-# Application programing interface
-# why- used to connect to other programs
-# in python we have a module called requests to interact with WEB-APIs
+# What is an API - Application programing interface
+# Why - used to connect to other programs
+# In Python we have a module called requests to interact with WEB-APIs
 
-# how can we install a python package in pycharm
-# pip install requests
+### how can we install a python package in pycharm
+``` pip install requests ```
 
 import requests
 
@@ -21,12 +20,12 @@ print(response_bcc.content)
 # elif code 400 - page not found
 # else code 404 - OOPs sorry something went wrong
 
-# 2ne Iteration
+## 2nd Iteration
 
-# create a function called check_response_code() including all the above
-# returns the message with status code
+### create a function called check_response_code() including all the above
+### returns the message with status code
 
-# 3rt Iteration? OOP with 4 pillars.
+### 3rt Iteration? OOP with 4 pillars.
 
 
 
