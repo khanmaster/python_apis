@@ -40,12 +40,13 @@ return "full address"
 ## code walk through in pycharm and git hub Repositories
 ## code Demo by running your code successfully in pycharm
 
-# Assessment criteria - DOD - Definition of Done:
-### Best practices that we have learned from business week till date
-- Ability to implement the instruction given
+# Assessment criteria:
+## Best practices that we have learned from business week till date
+### You will be assessed on the following points:
+- Ability to follow and implement the instruction given
 - Presentation Skills - practical implementation of show casing the amazing skills we learned in business week
 - Elevator's Pitch
 - Sudo coding in pycharm and README.md documentation for git hub
 - Best practices of python coding - OOP pillars
 - Time boxing 
-
+- DOD - Definition of Done
